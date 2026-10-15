@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "ohmyzsh/ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "description": "A community-driven framework for managing your zsh configuration.",
+    "starred_at": "2025-02-12"
+  },
+  {
+    "repository": "junegunn/fzf",
+    "url": "https://github.com/junegunn/fzf",
+    "description": "A command-line fuzzy finder.",
+    "starred_at": "2025-01-24"
+  },
+  {
+    "repository": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "description": "GitHub’s official command line tool.",
+    "starred_at": "2024-12-08"
+  }
+]
